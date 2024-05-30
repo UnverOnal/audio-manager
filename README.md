@@ -38,10 +38,6 @@ Below are examples of how to use the various methods:
 
 - **Mute All Audio:**
   ```csharp
-  audioService.Play(AudioClipEnum.YourClipName);
-
-- **Play Audio:**
-  ```csharp
   audioService.MuteAll(true);  // Mutes all audio clips
 
 - **Get Mute Status:**
